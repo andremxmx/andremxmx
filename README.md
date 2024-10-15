@@ -45,8 +45,8 @@
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Andre Cruz](https://www.linkedin.com/in/andrecruz)
-- Twitter: [@andrecruz_dev](https://twitter.com/andrecruz_dev)
+- LinkedIn: [Andre Cruz]([https://www.linkedin.com/in/andrecruz](https://www.linkedin.com/in/acruzrodriguez/))
+- Twitter: [@andrecruz_dev](https://twitter.com/)
 - Personal Website: [andrecruz.dev](https://andrecruz.dev)
 
 ---
