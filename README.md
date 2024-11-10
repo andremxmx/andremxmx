@@ -43,12 +43,6 @@
 - Exploring serverless architectures and cloud computing
 - Contributing to open-source projects in the JavaScript community
 
-### 📫 Let's Connect
-
-- LinkedIn: [Andre Cruz]([https://www.linkedin.com/in/andrecruz](https://www.linkedin.com/in/acruzrodriguez/))
-- Twitter: [@andrecruz_dev](https://twitter.com/)
-- Personal Website: [andrecruz.dev](https://andrecruz.dev)
-
 ---
 
 💡 Always open to interesting projects and collaborations. Feel free to reach out!
