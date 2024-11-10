@@ -1,4 +1,4 @@
-# Andre Cruz
+# Andre Cr
 ## Full Stack Developer | JavaScript Enthusiast | Open Source Contributor
 
 👨‍💻 Passionate about crafting efficient, scalable, and user-friendly web applications.
